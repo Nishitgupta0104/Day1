@@ -1,0 +1,22 @@
+h2{
+    color:blueviolet;
+    background-color: burlywood;
+    text-align: right;
+}
+.p3{
+    color: chocolate;
+    background-color: cadetblue;
+}
+#custom-header{
+    color: chartreuse;
+}
+.text-prop{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-style: oblique;
+    text-align: right;
+    text-decoration:line-through;
+    text-transform: capitalize;
+    text-shadow: violet;
+    text-shadow: 2px 5px 10px;
+}

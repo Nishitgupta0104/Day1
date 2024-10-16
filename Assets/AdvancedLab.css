@@ -1,0 +1,25 @@
+#custom-header{
+ color: aqua;
+ text-align: center;   
+ font-family: 'Times New Roman', Times, serif;
+ font-display: center;
+ font-weight: bold;
+ text-transform:uppercase;
+ text-decoration: underline;
+}
+.p{
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+.block{
+    background-color: white;
+    text-align: center;
+    color: aqua;
+    width: 80%;
+    height: 200px;
+    border-right: none;
+    border: 2px solid black
+}
